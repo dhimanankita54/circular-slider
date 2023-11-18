@@ -1,6 +1,6 @@
-#Circular slider with animations
+# Circular slider with animations
 
-##DEMO Gif
+## DEMO GIF
 
 ![](https://github.com/dhimanankita54/circular-slider/blob/main/src/planet-carousel.gif)
 
