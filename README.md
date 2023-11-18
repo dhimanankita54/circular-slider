@@ -1,3 +1,7 @@
+#Circular slider with animations
+##DEMO Gif
+https://github.com/dhimanankita54/circular-slider/blob/main/src/planet-carousel.gif
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
