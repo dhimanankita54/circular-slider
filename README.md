@@ -1,6 +1,6 @@
 #Circular slider with animations
 ##DEMO Gif
-https://github.com/dhimanankita54/circular-slider/blob/main/src/planet-carousel.gif
+![]https://github.com/dhimanankita54/circular-slider/blob/main/src/planet-carousel.gif
 
 # Getting Started with Create React App
 
